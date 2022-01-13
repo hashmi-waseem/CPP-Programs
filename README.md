@@ -1,2 +1,2 @@
 # CPP-Programs
-All programs covered in C++ course on Udemy by Abdul Bari
+All CPP programs covered in (Deep Dive In CPP Course) on Udemy by Abdul Bari.
